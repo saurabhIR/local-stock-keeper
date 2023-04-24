@@ -1,0 +1,37 @@
+form{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 64%;
+  margin-left: auto;
+  margin-right: auto;
+  gap: 4px;
+  margin-bottom: 10px;
+}
+.form input{
+  border: 1px solid rgb(209, 203, 203);
+}
+#interest{
+  width: 120px;
+}
+.signup{
+  margin-left: 20px;
+  margin-right: auto;
+  padding: 10px 20px;
+  border-radius: 25px;
+  background-color: rgb(93, 108, 230);
+  color: white;
+  border-color: rgb(133, 145, 245);
+  cursor: pointer;
+}
+#password, #confirmpassword{
+  color: black;
+  padding: 5px;
+}
+.mainbox{
+  padding: 16px 60px;
+}
+.d1{
+  padding-top: 25px;
+  padding-bottom: 5px;
+}
