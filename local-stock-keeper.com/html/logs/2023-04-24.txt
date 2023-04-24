@@ -1,0 +1,325 @@
+[24-Apr-2023 10:53:16 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:16 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:17 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:17 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:17 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:17 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:18 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:19 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:19 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:19 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:19 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:20 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:20 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:20 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:20 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:23 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:23 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:24 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:24 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:24 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:25 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:25 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:25 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:25 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:25 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:26 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:26 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:27 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:53:27 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(39): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Models/User.php(34): App\Models\User::findByEmail()
+#3 /var/www/mod2.com/html/App/Controllers/Account.php(22): App\Models\User::emailExists()
+#4 /var/www/mod2.com/html/Core/Router.php(125): App\Controllers\Account->validateEmailAction()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 10:56:04 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Access denied for user 'saurabh'@'localhost' (using password: YES)'
+Stack trace: #0 /var/www/mod2.com/html/Core/Model.php(24): mysqli_connect()
+#1 /var/www/mod2.com/html/App/Models/User.php(21): Core\Model::getDB()
+#2 /var/www/mod2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#3 [internal function]: App\Controllers\Signup->createAction()
+#4 /var/www/mod2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/mod2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/mod2.com/html/Core/Model.php' on line 24
+[24-Apr-2023 11:05:57 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Unknown column 'username' in 'where clause''
+Stack trace: #0 /var/www/mod2.com/html/App/Models/User.php(64): mysqli_query()
+#1 /var/www/mod2.com/html/App/Controllers/Login.php(15): App\Models\User::authenticate()
+#2 [internal function]: App\Controllers\Login->createAction()
+#3 /var/www/mod2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/mod2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/App/Models/User.php' on line 64
+[24-Apr-2023 11:37:52 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Unknown column 'username' in 'where clause''
+Stack trace: #0 /var/www/mod2.com/html/App/Models/User.php(66): mysqli_query()
+#1 /var/www/mod2.com/html/App/Controllers/Login.php(15): App\Models\User::authenticate()
+#2 [internal function]: App\Controllers\Login->createAction()
+#3 /var/www/mod2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/mod2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/App/Models/User.php' on line 66
+[24-Apr-2023 12:29:10 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "stocks_id"'
+Stack trace: #0 /var/www/mod2.com/html/App/Views/Feed/viewpost.php(36): Core\Error::errorHandler()
+#1 /var/www/mod2.com/html/Core/View.php(28): require('...')
+#2 /var/www/mod2.com/html/App/Controllers/Feed.php(51): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/mod2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/mod2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/mod2.com/html/App/Views/Feed/viewpost.php' on line 36
+[24-Apr-2023 12:41:43 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Unknown column 'id' in 'where clause''
+Stack trace: #0 /var/www/mod2.com/html/App/Models/User.php(104): mysqli_query()
+#1 /var/www/mod2.com/html/App/Controllers/Feed.php(63): App\Models\User->removeStock()
+#2 [internal function]: App\Controllers\Feed->removeAction()
+#3 /var/www/mod2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/mod2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/App/Models/User.php' on line 104
+[24-Apr-2023 13:08:26 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Unknown column 'id' in 'where clause''
+Stack trace: #0 /var/www/mod2.com/html/App/Models/User.php(127): mysqli_query()
+#1 /var/www/mod2.com/html/App/Controllers/Edit.php(21): App\Models\User->editStock()
+#2 [internal function]: App\Controllers\Edit->newAction()
+#3 /var/www/mod2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/mod2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/mod2.com/html/App/Models/User.php' on line 127
+[24-Apr-2023 13:15:18 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "id"'
+Stack trace: #0 /var/www/mod2.com/html/App/Controllers/Edit.php(35): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Edit->createAction()
+#2 /var/www/mod2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/mod2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/mod2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/mod2.com/html/App/Controllers/Edit.php' on line 35
